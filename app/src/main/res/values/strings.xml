@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab Exercise 1 pt2</string>
+    <string name="text1">Enter 1st number: </string>
+    <string name="text2">Enter 2nd number: </string>
+</resources>
